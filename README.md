@@ -1,5 +1,5 @@
 📞 Call Center Dashboard
-This repository contains a Power BI call center dashboard created by Rudra to monitor and analyze call center performance over a selected period.
+This repository contains a Power BI call center dashboard created by Het to monitor and analyze call center performance over a selected period.
 
 📊 Dashboard Overview
 The dashboard provides key insights into the call center's operations, including:
