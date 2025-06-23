@@ -33,7 +33,7 @@ City & Channel Filters: Dynamic filters for granular analysis.
 Power BI (for data visualization)
 
 Microsoft Bing Maps (for geographic visuals)
-![Call Center Dashboard](Call Center Dashboard.png)
+![Call Center Dashboard](image.png)
 📸 Dashboard Preview
 
 💡 Usage
